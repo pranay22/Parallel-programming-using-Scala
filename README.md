@@ -9,7 +9,7 @@ Week 3: K-Means
 Week 4: Barnes-Hut Simulation  
 
 
-*Official Certifcate Link:* Would be added soon  
+*Official Certifcate Link:* https://www.coursera.org/account/accomplishments/records/4FTRP6ECKYE5  
 *Received Grades:* **97.5%**  
 
 **Code Format:** sbt (to reduce the number of uploaded files)  
