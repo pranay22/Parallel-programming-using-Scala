@@ -5,7 +5,7 @@ Course offered by EPFL via Coursera
 
 Week 1: Parallel Box Blur Filter  
 Week 2: Reductions and Prefix Sums  
-Week 3: --  
+Week 3: K-Means  
 Week 4: --  
 
 
