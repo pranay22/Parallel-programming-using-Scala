@@ -10,7 +10,7 @@ Week 4: Barnes-Hut Simulation
 
 
 *Official Certifcate Link:* Would be added soon  
-*Received Grades:* **--%**  
+*Received Grades:* **97.5%**  
 
 **Code Format:** sbt (to reduce the number of uploaded files)  
 *To compile & download resources, use sbt.*  
