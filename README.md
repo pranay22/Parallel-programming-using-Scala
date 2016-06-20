@@ -3,7 +3,7 @@ Course offered by EPFL via Coursera
 
 *Contains submitted codes for all Homeworks:*  
 
-Week 1: --  
+Week 1: Parallel Box Blur Filter  
 Week 2: --  
 Week 3: --  
 Week 4: --  
