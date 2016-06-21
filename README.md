@@ -6,7 +6,7 @@ Course offered by EPFL via Coursera
 Week 1: Parallel Box Blur Filter  
 Week 2: Reductions and Prefix Sums  
 Week 3: K-Means  
-Week 4: Barnes-Hut Simulation  
+Week 4: Barnes-Hut Simulation    
 
 
 *Official Certifcate Link:* https://www.coursera.org/account/accomplishments/records/4FTRP6ECKYE5  
